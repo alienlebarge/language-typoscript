@@ -1,9 +1,9 @@
 {
   "name": "language-typoscript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
-  "description": "A short description of your package",
-  "repository": "https://github.com/atom/language-typoscript",
+  "description": "Typoscript language support in Atom",
+  "repository": "https://github.com/alienlebarge/language-typoscript",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
